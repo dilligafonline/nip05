@@ -1,0 +1,17 @@
+{
+  "names": {
+    "_": "bab5abb2df185c3c34be2397a0331eab663814f3a15e9c24908dc83ffca992a3",
+    "axl": "bab5abb2df185c3c34be2397a0331eab663814f3a15e9c24908dc83ffca992a3"
+           },
+  "relays": {
+    "bab5abb2df185c3c34be2397a0331eab663814f3a15e9c24908dc83ffca992a3": [
+      "wss://relay.primal.net",
+      "wss://nos.lol",
+      "wss://relay.damus.io",
+      "wss://relay.nostr.band",
+      "wss://jellyfish.land",
+      "wss://nostr.wine",
+      "wss://nostr.land"
+    ]
+  }
+}
