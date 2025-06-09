@@ -1,0 +1,8 @@
+{
+	"callback":"https://coinos.io/api/lnurl/ca801662-80e9-42cd-8c1a-cd55fb838eee",
+	"maxSendable":100000000000,
+	"minSendable":1000,
+	"metadata":"[[\"text/plain\",\"Pay to Coinos user: Axl\"],[\"text/identifier\",\"axl@coinos.io\"]]",
+	"commentAllowed":512,
+	"tag":"payRequest"
+}
